@@ -1,6 +1,10 @@
 # Swarn Chatbot 
 
-Swarn Chat Bot is A chatbot with an artificial intelligence (AI) that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone. Below is dummy Chatbot.
+Swarn Chat Bot is A chatbot with an artificial intelligence (AI) that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone. Below is dummy Chatbot. 
+
+Try mentioned few command to communicate with bot -
+
+``` Hi ``` ``` Hello ``` ``` bye ``` ``` No thanks ``` ``` how are you ? ``` ``` I want to check my bank balance for my savings account ``` ``` balance ```
 
 Screenshots - 
 
