@@ -22,17 +22,17 @@ MoongoDb
 
 Go Inside the folder and install all the dependencies
 
-npm install
+```npm install```
 
 Go to root directory and run 
 
 For running your project in local port
 
-npm run-script server
+```npm run-script server```
 
 For running your express server 
 
-npm start
+```npm start```
 
 # 📝 License 
 
