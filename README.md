@@ -8,13 +8,16 @@ Try mentioned few command to communicate with bot -
 
 Screenshots - 
 
-![Screenshot 2020-10-20 at 3 19 08 PM](https://user-images.githubusercontent.com/3918217/96570694-46889180-12e8-11eb-8f60-7000584d9517.png)
 
 
-![Screenshot 2020-10-20 at 3 19 34 PM](https://user-images.githubusercontent.com/3918217/96570689-45effb00-12e8-11eb-8068-58e6d6e1ab89.png)
+![Screenshot 2020-10-20 at 4 25 21 PM](https://user-images.githubusercontent.com/3918217/96577354-1f828d80-12f1-11eb-8857-d06f5f641ff3.png)
 
 
-![Screenshot 2020-10-20 at 3 20 27 PM](https://user-images.githubusercontent.com/3918217/96570668-41c3dd80-12e8-11eb-8082-cde9ded2b0c9.png)
+
+
+
+![Screenshot 2020-10-20 at 4 30 04 PM](https://user-images.githubusercontent.com/3918217/96577639-87d16f00-12f1-11eb-8dfc-3e642c27ccad.png)
+
 
 
 
@@ -31,6 +34,12 @@ React
 Javascript
 
 MoongoDb
+
+HTML5
+
+CSS
+
+axios
 
 # Installation
 ``` Run Commands ```
