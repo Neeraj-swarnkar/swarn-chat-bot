@@ -11,17 +11,26 @@
   transition: all 0.5s ease-in;
 }
 
+.chat-input {
+  padding: 20px;
+}
+
 .uk-padding-small {
   padding: 15px;
   border: 1px grey solid;
   border-radius: 10px;
 }
 
+.w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
 .uk-section {
+  padding-top: 2px !important;
   .message {
     display: inline-flex;
   }
   .uk-card-footer {
+    border-top: 0px !important;
     .uk-width-expand {
       width: 100%;
     }

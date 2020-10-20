@@ -9,6 +9,8 @@ export default function Message(props) {
     props.from === "user"
       ? "uk-card uk-card-body uk-card-small uk-card-primary uk-border-rounded message"
       : "uk-card uk-card-body uk-card-small uk-card-default uk-border-rounded message";
+
+  const botImage = props.from !== "user" ? "img/bot.png" : "img/user.webp";
   return (
     <div className={msgClass} uk-grid>
       <div className="uk-width-auto">
@@ -16,7 +18,7 @@ export default function Message(props) {
           className="uk-border-circle"
           width="32"
           height="32"
-          src="img/bot.png"
+          src={botImage}
           alt="bot"
         />
       </div>

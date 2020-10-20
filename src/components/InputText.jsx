@@ -13,13 +13,6 @@ export default function InputText(props) {
       <form onSubmit={onSubmit}>
         <div className="uk-card-footer uk-padding-remove">
           <div className="uk-grid-small uk-flex-middle" uk-grid>
-            <div className="uk-width-auto">
-              <a
-                href="#"
-                className="uk-icon-link uk-margin-small-left"
-                uk-icon="icon: happy"
-              />
-            </div>
             <div className="uk-width-expand">
               <div className="uk-padding-small">
                 <input
@@ -29,16 +22,6 @@ export default function InputText(props) {
                   placeholder="Your message..."
                 />
               </div>
-            </div>
-            <div className="uk-width-auto">
-              <ul className="uk-iconnav uk-margin-small-right">
-                <li>
-                  <a href="#" uk-icon="icon: image" />
-                </li>
-                <li>
-                  <a href="#" uk-icon="icon: location" />
-                </li>
-              </ul>
             </div>
           </div>
         </div>
