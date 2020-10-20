@@ -25,21 +25,28 @@ Screenshots -
 
 TECHNOLOGY used in this project:
 
-Node.js
+Node.js - Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser.
 
-Express
+Express - Express.js, or simply Express, is a back end web application framework for Node.js.
 
-React
+React - React is an open-source, front end, JavaScript library for building user interfaces or UI components.
 
-Javascript
+Javascript - JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications.
 
-MoongoDb
+Mongodb - MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
-HTML5
+Mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js.
 
-CSS
+HTML5 - HTML5 is a markup language used for structuring and presenting content on the World Wide Web.
 
-axios
+CSS - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. 
+
+Sass - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. 
+
+Axios - Axios is a popular, promise-based HTTP client that sports an easy-to-use API and can be used in both the browser and Node.js.
+
+and many more...
+
 
 # Installation
 ``` Run Commands ```
