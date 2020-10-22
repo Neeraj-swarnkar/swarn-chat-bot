@@ -26,6 +26,9 @@
     "url": "https://github.com/Neeraj-swarnkar/swarn-chat-bot/issues"
   },
   "homepage": "https://github.com/Neeraj-swarnkar/swarn-chat-bot#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.19.0",
